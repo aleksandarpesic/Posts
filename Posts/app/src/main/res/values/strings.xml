@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="m_btn2">Refresh / fetch fresh data</string>
+    <string name="dp_author"> Author details</string>
+    <string name="dp_postdetail" > Post details</string>
+    <string name="dp_title">Title:</string>
+    <string name="dp_body">Body:</string>
+    <string name="dp_delete">Delete this post from local DB</string>
+    <string name="dp_back"><![CDATA[<- Back]]></string>
+</resources>
